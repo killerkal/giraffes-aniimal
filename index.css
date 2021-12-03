@@ -1,0 +1,11 @@
+.intro{
+  font-style: italic;
+  text-align:left;
+  color: blue;
+}
+.author{
+  color: crimson;
+}
+p.author{
+  font-size: 15;
+}
