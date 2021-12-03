@@ -6,6 +6,17 @@
 .author{
   color: crimson;
 }
-p.author{
+#id{
   font-size: 15;
+}
+.unimportant{
+  color: chocolate;
+}
+.ula{
+  color: aquamarine;
+}
+img{
+  float: inline-start;
+  border-radius: 50%;
+  background-color: lawngreen;
 }
